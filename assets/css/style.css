@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+margin: 0;
+padding: 0;
+}
+body{ 
+    font-family: 'Roboto', sans-serif;
+    color: #67717e;
+}
+
+h2  {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    color: black;
+    font-size: 100%;
+}
+
+
+nav ul{
+    list-style: none;
+    background-color: rgb(182, 187, 174);
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    font-size: 1.2em;
+    line-height: 80px;
+    height: 80px;
+    display: inline-block;
+    margin: 5%;
+}
+nav a {
+    text-decoration: none;
+    color: whitesmoke;
+    display: block;
+}
+nav a:hover{
+    background-color: white;
+    color: rgb(182, 187, 174);
+}
+
+#Homeimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 600px;
+    background-image:url(https://media.gq.com/photos/5b6b20e3a3a1320b7280f029/16:9/w_2560%2Cc_limit/The-Brutal-Wonders-Of-The-Architecture-World-GQ-Style-Fall-2018_07.jpg)
+    
+
+}

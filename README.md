@@ -1,45 +1,87 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome TeejAYeni,
+## Project 
+VIEW THE LIVE PROJECT [here](www.selfbuildshelters.com)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+The objective of the of the project is to create a responsive website for an for an architecture design company 
+with Cumulative additonal knowledge and experience of twenty years in the buiding and design company.
 
-## Gitpod Reminders
+1. ## User experience (UX)
+   **a. User Stories**
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+   **b. Target Audience:** 
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+   **c. First time Visitor Goals**
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: *Make Public*,
+   **d. Design Choices:**
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+    **c. Imagery**
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+    **d. Wireframe:**
+        The mockup images of the wireframe can be download [here]([Wireframe](https://ad2fb753-4832-4630-bd40-e6d881365388.ws-eu03.gitpod.io/files/download/?id=01d33bcf-8ee6-404c-8582-fd591cfdd848))
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+2. ## Features
+* The webpages should be responsive in desktop, tablet and smartphones device
+* Website should be interactive and user friendly.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+3. ## Technology Used
+ * HTLM5
+ * CSS
+ * Bootstrap v4.1.3
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+   **Frameworks, Libraries & Program Used:**
+ * Bootstrap v4.1.3 : Used to build mobile responsieveness and styling
+ * Balsamiq         : Used to build wireframe and communicate of concept and layout webpages [Wireframe](https://ad2fb753-4832-4630-bd40-e6d881365388.ws-eu03.gitpod.io/files/download/?id=01d33bcf-8ee6-404c-8582-fd591cfdd848)
+ * Gitpod           : Workspace used ad development tools used for coding
+ * Git              : Used for version control by using Gitpod terminal to commit to Git and Push to GitHub
+   
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+* Font Awesome      : used on  all webpages for icons and creatie visually pleasing website
+* Google Fonts      : used on all pages for visually pleasing website
+* Hover.css         : used to create socialmedia icons in the footer section of the webpage.
 
---------
 
-Happy coding!
+4. ## Testing   
+ * W3C MarkUp Validator Used  and W3C CSS Validator recommended to validate code of project
+ HTLM5 RESULT: [W3C MarkUp Validator Used](https://validator.w3.org/#validate_by_input)
+ CSS RESULT  :[W3C CSS Validator](http://www.css-validator.org/#validate_by_input)
+
+5. ## Deployment
+This project was developed using Gitpod Workspace environment committed to Git and pushed to GitHub using builtin function with Gitpod.
+To deploy this page to GitHub pages from its Github respository, the following steps were taken.
+a. Login to Git GitHub
+b. From list of respositories on the screen select Teejay/Self-build-Shelter
+c. From the menu items near the top-bar of the of the pages Select Settings
+d. Scroll down to the GitHub pages Sections
+e. Under source tab click drop-down menu label NONE and Select MASTER BRANCH
+f. On Selection of MASTER BRANCH, the page will automatically refreshed. The website is now deployed.
+g. Scroll backdown to GitHub Pages section to retrieve the link to deployed website.
+h. Finally deployed website and MASTER BRANCH must be identical.
+
+
+
+6. ## Credits
+* CODE  
+Learning management resources provide by [Code Institute Ireland](https://courses.codeinstitute.net/program/FullstackWebDeveloper)
+
+* CONTENT
+
+
+* MEDIA 
+Phootograph credit to 
+
+
+* ACKNOWLEDGEMENT  
+ Gratitude to mentor - Mr. Gbenga Adeye
+ Student support from the [CodeInstitute](https://courses.codeinstitute.net/%2Fcourses/course-v1:CodeInstitute+PRE101+2019/support)
+
+
+
+
