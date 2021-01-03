@@ -7,19 +7,30 @@ with Cumulative additonal knowledge and experience of twenty years in the buidin
 
 1. ## User experience (UX)
    **a. User Stories**
-
+* The website is set up to create _online adverts_ for prospectus clients looking a qualified 
+  architectural service company to assist in buiding designs and construction. 
+  A _home page_ welcome first time visitor to the website. This page clearly show the kind of professional services the company render.
+  The site comprise of three webpages that is easy to navigate. The content of each web page clearly show first user the kind of architectural 
+  services the company render. The second webpages show _portfolios_ and past project understaken by the company. 
+  The third page is the _contact us_ page form to be completed by interested visitor to website to enable the organisation to contact the prospectus clients.
 
    **b. Target Audience:** 
+   The targeted visitors to the website are client looking for architects to design a bespoke house design to meet specialised needs and house design that fit 
+   into the family lifestyle or professional lifestyle of prospectus client.
 
 
    **c. First time Visitor Goals**
-
-
+   The first time vistors should be able to know more about the organisations and see evident of past projects of the company
+   for the purpose of validating professional competency and building confident on the ability of the company to similar project 
+   for the visitor to the website.
    **d. Design Choices:**
-
-
+    The choice of  three webpage design is clarity, simplicity, balance, proximity, contrast of colour, focus, unity, alignment, accessiblity and readability 
+    for all categories of visitors to the website. Roboto- font-family used for ease of reading on the 
+    media screen. The colour of the webpage are subtle and less distracting to allow focus on delivering informations to the vistors
+    The colour of the background and messages are contrast for use of reading on the screen.
     **c. Imagery**
-
+     The photograph and images used on the website are clear and sharp to clearly show the quality of 
+     professional projects the organisations had in her portfolios
 
     **d. Wireframe:**
         The mockup images of the wireframe can be download [here]([Wireframe](https://ad2fb753-4832-4630-bd40-e6d881365388.ws-eu03.gitpod.io/files/download/?id=01d33bcf-8ee6-404c-8582-fd591cfdd848))
@@ -72,10 +83,10 @@ h. Finally deployed website and MASTER BRANCH must be identical.
 Learning management resources provide by [Code Institute Ireland](https://courses.codeinstitute.net/program/FullstackWebDeveloper)
 
 * CONTENT
-
+The content was developed by the student-developer
 
 * MEDIA 
-Phootograph credit to 
+Phootograph credit to Getty-images
 
 
 * ACKNOWLEDGEMENT  
