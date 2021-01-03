@@ -30,7 +30,7 @@ h1{
 
 nav ul{
     list-style: none;
-    background-color: rgb(182, 187, 174);
+    background-color: rgba(0, 204, 153, 0.788);
     text-align: center;
     padding: 0;
     margin: 0;
@@ -92,36 +92,45 @@ nav a:hover{
     position: absolute;
 
 }
-
-footer{
-    height: 100px;
-    background-color: rgb(182, 187, 174)
-   
+.bg{
+    background-image: url(../img/home_image.jpg);
+    width: 100%;
+    background-size: 100%;
 }
-footer, h4{
+.form-container{
+    background: #f1f1f1;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000000;
+    position: relative;
+}
+@media only screen and (max-width: 678px){
+    .bg{
+        background-size: 300%;
+    }
+}
+
+ .footer{
+    height: 150px;
+    background-color: rgba(0, 204, 153, 0.788); 
+    display: inline-block;
+}
+
+ .footer, h4{
     font-family: 'Roboto', sans-serif;
-    color:rgba(25, 140, 216, 0.527);
+    color:#ffffff
     letter-spacing: 2px;
     text-align: left;
-    padding-left: 5px;
-    padding-top: 5px;
-    
+      
 }
 
-.social-networks{
-    text-align: center;
-
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    font-size: 13px;
+    line-height: 7px;
+    color: #ffffff;
+   
 }
 
-.social-networks li{
-    display: inline-block;
-    margin: 0 150px;
-    
-    
-}
-
-.social-networks i{
-    font-size: 100;
-    margin: 100%;
-    padding: 100%;
-    color:rgba(25, 140, 216, 0.527);
