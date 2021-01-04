@@ -67,7 +67,6 @@ nav a:hover{
     position: relative;
     background-image: url(../img/home_image.jpg);
     background-size: cover;
-    
 
 }
 
@@ -81,17 +80,18 @@ nav a:hover{
     font-family: Roboto;
     text-transform: uppercase;
     text-align: left;
-    letter-spacing: 2px;
-    width: 300px;
+    letter-spacing: 1px;
+    width: 400px;
     height: 500px;
+    word-wrap: normal;
     padding-top: 20px;
     padding-left: 20px;
     background-color: rgba(182, 187, 174, 0.5);
-    top: 50px;
-    left: 50px;
+    top: 20px;
+    left: 20px;
     position: absolute;
-
 }
+
 .bg{
     background-image: url(../img/home_image.jpg);
     width: 100%;
@@ -113,23 +113,23 @@ nav a:hover{
  .footer{
     height: 150px;
     background-color: rgba(0, 204, 153, 0.788); 
-    display: inline-block;
+    
 }
 
  .footer, h4{
     font-family: 'Roboto', sans-serif;
-    color:#ffffff
+    color:#ffffff;
     letter-spacing: 2px;
     text-align: left;
-      
+     
 }
 
 .social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    font-size: 13px;
-    line-height: 7px;
+    width: 50px;
+    height: 50px;
+    padding: 12px 0px;
+    font-size: 25px;
+    line-height: 25px;
     color: #ffffff;
    
 }
