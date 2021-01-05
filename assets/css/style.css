@@ -2,14 +2,14 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 
 }
 
 body{ 
     font-family: 'Roboto', sans-serif;
     position: relative;
-    padding: bottom 60px; 
+    padding: bottom 15px;
+    padding-top: 15px;
     
 }
 
@@ -135,10 +135,11 @@ nav a:hover{
 .social-links li a i {
     width: 50px;
     height: 50px;
-    padding: 12px 0px;
+    padding: 12px 0x;
     font-size: 25px;
     line-height: 25px;
     color: #ffffff;
+    text-align: center;
    
 }
 
