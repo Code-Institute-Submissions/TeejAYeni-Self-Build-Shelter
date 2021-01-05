@@ -110,6 +110,14 @@ nav a:hover{
     }
 }
 
+.porfolios-heading { color: rgba(0, 204, 153, 0.788);
+
+}
+.dl{ border-bottom: 1px solid rgba(0, 204, 153, 0.788)
+     
+  
+}
+
  .footer{
     height: 150px;
     background-color: rgba(0, 204, 153, 0.788); 
