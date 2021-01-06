@@ -21,7 +21,7 @@ h1{
     text-align: center;
        
 }
-
+/* styling bootstrap navbar */
  #menu i{
     font-size: 100;
     padding: 100%;
@@ -93,7 +93,7 @@ nav a:hover{
 }
 
 .bg{
-    background-image: url(../img/home_image.jpg);
+    background-image: url(../img/home_image.jpg); /*image is credited to www.media.architecturaldigest.com*/
     width: 100%;
     background-size: 100%;
 }
@@ -109,7 +109,7 @@ nav a:hover{
         background-size: 300%;
     }
 }
-/* ....  Bootstrap component        */
+/*  using green color-style to connotes environemntal friendly website */
 
 .porfolios-heading { color: rgba(0, 204, 153, 0.788);
 
@@ -118,7 +118,7 @@ nav a:hover{
      
   
 }
-
+/* style my footer tabs starts here*/
  .footer{
     height: 150px;
     background-color: rgba(0, 204, 153, 0.788); 
