@@ -42,6 +42,7 @@ with Cumulative additonal knowledge and experience of twenty years in the buidin
 * The webpages should be responsive in desktop, tablet and smartphones device
 * Website should be interactive and user friendly.
 * Three webpages website
+* Color used  are black, rgb(182.187.174)grey; rgb(0.204.153)dove-green; #fffffff(white); #f1f1f1(light-grey)
 
 3. ## Technology Used
  * HTLM5
@@ -55,9 +56,9 @@ with Cumulative additonal knowledge and experience of twenty years in the buidin
  * Git              : Used for version control by using Gitpod terminal to commit to Git and Push to GitHub
    
 
-* Font Awesome      : used on  all webpages for icons and creatie visually pleasing website
-* Google Fonts      : used on all pages for visually pleasing website
-* Hover.css         : used to create socialmedia icons in the footer section of the webpage.
+* Google Fonts           : Roboto used with default fonts to _san-serif_
+* Fonts Awesome          : icons used on all webpages to make visually pleasing and easy to read website
+* Hover.css              : used to create an active and responsive navbar on the homepage.
 
 
 4. ## Testing   
@@ -96,6 +97,8 @@ Code credited to [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/i
 * ACKNOWLEDGEMENT  
  Gratitude to mentor - Mr. Gbenga Adeye
  Student support from the [CodeInstitute](https://courses.codeinstitute.net/%2Fcourses/course-v1:CodeInstitute+PRE101+2019/support)
+
+
 
 
 
