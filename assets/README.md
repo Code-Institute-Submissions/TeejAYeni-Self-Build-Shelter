@@ -53,7 +53,7 @@ with Cumulative additonal knowledge and experience of twenty years in the buidin
  * Bootstrap v4.1.3 : Used to build mobile responsieveness and styling
  * Balsamiq         : Used to build wireframe and communicate of concept and layout webpages [Wireframe](https://ad2fb753-4832-4630-bd40-e6d881365388.ws-eu03.gitpod.io/files/download/?id=01d33bcf-8ee6-404c-8582-fd591cfdd848)
  * Gitpod           : Workspace used ad development tools used for coding
- * Git              : Used for version control by using Gitpod terminal to commit to Git and Push to GitHub
+ * GitHub           : Used for version control by using Gitpod terminal to commit to Git and Push to GitHub
    
 
 * Google Fonts           : Roboto used with default fonts to _san-serif_
@@ -64,7 +64,9 @@ with Cumulative additonal knowledge and experience of twenty years in the buidin
 4. ## Testing   
  * W3C MarkUp Validator Used  and W3C CSS Validator recommended to validate code of project
  * HTLM5 RESULT: [W3C MarkUp Validator Used](https://validator.w3.org/#validate_by_input)
+ * HTML Validator used to fix errors in all the three html pages using validate by direct input
  * CSS RESULT  :[W3C CSS Validator](http://www.css-validator.org/#validate_by_input)
+ * CSS Validator used to fix errors in all the CSS-page using validate by direct input
  * Chrome Development tools used to test mobile responsiveness of the deployed website
 
 5. ## Deployment
