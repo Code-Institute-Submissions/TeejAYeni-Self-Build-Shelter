@@ -17,16 +17,17 @@
 <nav class="container-fluid">
 
   <ul class="nav nav-pills nav-fill">
-  <li class="nav-item">
+   <li class="nav-item">
     <a class="nav-link active" aria-current="page" href="index.html"><i class="fas fa-home"></i>Home</a>
-  </li>
-  <li class="nav-item">
+   </li>
+   <li class="nav-item">
     <a class="nav-link active" aria-current="page" href="Portfolios.html"><i class="fas fa-briefcase"></i>Portfolios</a>
-  </li>
-  <li class="nav-item">
+   </li>
+   <li class="nav-item">
     <a class="nav-link active" aria-current="page" href="Contact_Us.html"><i class="fas fa-address-card"></i>Contact Us</a>
-  </li>
-  </nav>	
+   </li>
+  </ul>
+</nav>	
 </header>
 
 <h1> Contact Us </h1>
@@ -35,23 +36,23 @@
 <section class="row justify-content-center">
 <section class="col-12 col-sm-6">
 <form class="form-container">
-    <div class="form-group">
-    <label for="exampleInputYourName1">Your Name</label>
-    <input type="text" class="form-control" id="YourName1" aria-describedby="NameHelp" placeholder="Enter Name">
+   <div class="form-group">
+    <label>Your Name</label>
+    <input type="text" class="form-control" id="YourFullName" aria-describedby="NameHelp" placeholder="Enter Name" required/>
     <small id="NameHelp" class="form-text text-muted">We'll never share your Name with anyone else.</small>
     </div>
     <div class="form-group">
-    <label for="YourPhone1">Your Phone</label>
-    <input type="Name" class="form-control" id="YourPhone1" aria-describedby="PhoneHelp" placeholder="Enter Phone">
+    <label>Your Phone</label>
+    <input type="number" class="form-control" id="YourPhoneNumber" aria-describedby="PhoneHelp" placeholder="Enter Phone" required/>
     <small id="PhoneHelp" class="form-text text-muted">We'll never share your Phone with anyone else.</small>
     </div>
     <div class="form-group">
-    <label for="exampleInputEmail1">Your Email </label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Email">
+    <label>Your Email </label>
+    <input type="email" class="form-control" id="YourEmail1" aria-describedby="emailHelp" placeholder="Enter Email" required/>
     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
     </div>
     <div class="form-group">
-    <textarea rows="5" name="EnterRequestSummary" class="form-control" id="EnterRequestSummary" >Enter Your Request</textarea>
+    <textarea rows="5" name="EnterRequestSummary" class="form-control" id="EnterRequestSummary">Enter Your Request</textarea>
     </div>
     <div class="form-group form-check">
     <input type="checkbox" class="form-check-input" id="exampleCheck1">
