@@ -23,7 +23,7 @@ h1{
 }
 /* styling bootstrap navbar */
  #menu i{
-    font-size: 100;
+    font-size: 200;
     padding: 100%;
     margin: 100%
 }
@@ -37,19 +37,17 @@ nav ul{
 }
 nav li {
     font-size: 1.2em;
-    line-height: 80px;
-    height: 80px;
-    display: inline-block;
+    line-height: 100px;
+    height: 100px;
+    display: flexbox;
     margin: 5%;
 }
 nav a {
     text-decoration: none;
     color: whitesmoke;
-    display: block;
+    display: flex;
 }
-nav a:hover{
-    background-color: white;
-    color: rgb(182, 187, 174);
+
 }
 
 #home-image{
@@ -114,7 +112,15 @@ nav a:hover{
 
 }
 .dl{ border-bottom: 1px solid rgba(0, 204, 153, 0.788)
-     
+      
+}
+
+@media(max-width: 1200px) {
+    .form-group{   max-width: 100%;
+        padding-top: 10px;
+        margin: 0 auto;
+
+}
   
 }
 /* style my footer tabs starts here*/
