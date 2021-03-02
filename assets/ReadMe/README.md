@@ -33,7 +33,7 @@ with Cumulative additonal knowledge and experience of twenty years in the buidin
      professional projects the organisations had in her portfolios
 
     **f. Wireframe:**
-        The mockup images of the wireframe can be download ![here](/assets/Wireframe/MS1-Project Wireframe.pdf)
+        The mockup images of the wireframe can be download [here](https://github.com/TeejAYeni/Self-Build-Shelter/blob/master/assets/Wireframe/MS1-%20Project%20Wireframe.pdf)
 
 
 
@@ -63,9 +63,9 @@ with Cumulative additonal knowledge and experience of twenty years in the buidin
 
 4. ## Testing   
  * W3C MarkUp Validator Used  and W3C CSS Validator recommended to validate code of project
- * HTLM5 RESULT:  !alt[W3C, HTML MarkUp Validator Used](/assets/ReadMe/BugsFix_html.jpg)]
+ * HTLM5 RESULT:  [W3C HTML MarkUp Validator Used](https://github.com/TeejAYeni/Self-Build-Shelter/blob/master/assets/ReadMe/BugsFix_html.jpg)
  * HTML Validator used to fix errors in all the three html pages using validate by direct input
- * CSS RESULT  : !alt[W3C, CSS Validator](/assets/ReadMe/BugsFix_css.JPG)
+ * CSS RESULT  : [W3C, CSS Validator](https://github.com/TeejAYeni/Self-Build-Shelter/blob/master/assets/ReadMe/BugsFix4_css.JPG)
  * CSS Validator used to fix errors in all the CSS-page using validate by direct input
  * Chrome Development tools used to test mobile responsiveness of the deployed website
 
