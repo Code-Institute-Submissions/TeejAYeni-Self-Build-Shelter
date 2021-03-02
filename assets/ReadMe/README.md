@@ -33,7 +33,7 @@ with Cumulative additonal knowledge and experience of twenty years in the buidin
      professional projects the organisations had in her portfolios
 
     **f. Wireframe:**
-        The mockup images of the wireframe can be download [here]([Wireframe](https://ad2fb753-4832-4630-bd40-e6d881365388.ws-eu03.gitpod.io/files/download/?id=01d33bcf-8ee6-404c-8582-fd591cfdd848))
+        The mockup images of the wireframe can be download ![here](/assets/Wireframe/MS1-Project Wireframe.pdf)
 
 
 
@@ -63,9 +63,9 @@ with Cumulative additonal knowledge and experience of twenty years in the buidin
 
 4. ## Testing   
  * W3C MarkUp Validator Used  and W3C CSS Validator recommended to validate code of project
- * HTLM5 RESULT: [W3C MarkUp Validator Used](https://validator.w3.org/#validate_by_input)
+ * HTLM5 RESULT:  !alt[W3C, HTML MarkUp Validator Used](/assets/ReadMe/BugsFix_html.jpg)]
  * HTML Validator used to fix errors in all the three html pages using validate by direct input
- * CSS RESULT  :[W3C CSS Validator](http://www.css-validator.org/#validate_by_input)
+ * CSS RESULT  : !alt[W3C, CSS Validator](/assets/ReadMe/BugsFix_css.JPG)
  * CSS Validator used to fix errors in all the CSS-page using validate by direct input
  * Chrome Development tools used to test mobile responsiveness of the deployed website
 
@@ -97,7 +97,7 @@ Code credited to [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/i
 * Photographs template used in portfolios webpage credited to [Pixabay](https://cdn.pixabay.com/photo/2016/11/18/17/46/architecture-1836070_960_720.jpg)
 
 * ACKNOWLEDGEMENT  
- Gratitude to mentor - Mr. Gbenga Adeye
+ Gratitude to mentor - Mr. Rohit Sharma
  Student support from the [CodeInstitute](https://courses.codeinstitute.net/%2Fcourses/course-v1:CodeInstitute+PRE101+2019/support)
 
 
